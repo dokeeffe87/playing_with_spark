@@ -1,2 +1,2 @@
 # playing_with_spark
-messing around with spark.
+messing around with spark.  Nothing fancy.
